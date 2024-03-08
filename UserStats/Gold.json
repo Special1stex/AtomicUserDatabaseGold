@@ -215,6 +215,15 @@
       "total_device": 1,
       "latest_hwid": "N/A",
       "ip": "140.213.10.151"
+    },
+    {
+      "discord_id": "585822318127874049",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "BANGKEKAU15",
+      "total_device": 1,
+      "latest_hwid": "N/A",
+      "ip": "112.78.156.163"
     }
   ]
 }
