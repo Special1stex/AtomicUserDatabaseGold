@@ -188,6 +188,15 @@
       "total_device": 1,
       "latest_hwid": "N/A",
       "ip": "180.252.95.188"
+    },
+    {
+      "discord_id": "1083739623043366942",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "CooBars01",
+      "total_device": 1,
+      "latest_hwid": "N/A",
+      "ip": "180.242.44.172"
     }
   ]
 }
