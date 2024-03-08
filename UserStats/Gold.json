@@ -125,6 +125,15 @@
       "total_device": 1,
       "latest_hwid": "N/A",
       "ip": "36.73.32.84"
+    },
+    {
+      "discord_id": "1143098193903624272",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "cgm1494",
+      "total_device": 1,
+      "latest_hwid": "N/A",
+      "ip": "36.71.82.218"
     }
   ]
 }
