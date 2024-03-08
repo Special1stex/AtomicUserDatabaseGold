@@ -152,6 +152,15 @@
       "total_device": 1,
       "latest_hwid": "N/A",
       "ip": "180.254.69.165"
+    },
+    {
+      "discord_id": "574144127936102428",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "gamertfy86",
+      "total_device": 1,
+      "latest_hwid": "N/A",
+      "ip": "103.26.176.80"
     }
   ]
 }
