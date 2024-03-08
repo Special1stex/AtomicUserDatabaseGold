@@ -116,6 +116,15 @@
       "total_device": 1,
       "latest_hwid": "N/A",
       "ip": "111.94.50.194"
+    },
+    {
+      "discord_id": "471129867916673076",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "DimensionalTrift",
+      "total_device": 1,
+      "latest_hwid": "N/A",
+      "ip": "36.73.32.84"
     }
   ]
 }
