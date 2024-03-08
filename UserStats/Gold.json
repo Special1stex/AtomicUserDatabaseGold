@@ -143,6 +143,15 @@
       "total_device": 1,
       "latest_hwid": "N/A",
       "ip": "103.129.175.12"
+    },
+    {
+      "discord_id": "691495575660527688",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Bchtar",
+      "total_device": 1,
+      "latest_hwid": "N/A",
+      "ip": "180.254.69.165"
     }
   ]
 }
