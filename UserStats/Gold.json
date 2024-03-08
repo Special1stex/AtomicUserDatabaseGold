@@ -53,6 +53,15 @@
       "total_device": 1,
       "latest_hwid": "N/A",
       "ip": "140.213.190.63"
+    },
+    {
+      "discord_id": "709512179329663029",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "donquiyo",
+      "total_device": 1,
+      "latest_hwid": "N/A",
+      "ip": "180.252.82.132"
     }
   ]
 }
