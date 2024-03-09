@@ -737,6 +737,15 @@
       "total_device": 1,
       "latest_hwid": "N/A",
       "ip": "36.79.215.151"
+    },
+    {
+      "discord_id": "709202805998747649",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "farel_ptr",
+      "total_device": 1,
+      "latest_hwid": "N/A",
+      "ip": "180.252.92.62"
     }
   ]
 }
