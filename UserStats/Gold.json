@@ -503,6 +503,15 @@
       "total_device": 1,
       "latest_hwid": "N/A",
       "ip": "140.213.7.144"
+    },
+    {
+      "discord_id": "490455906367307783",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "EVLvenom",
+      "total_device": 1,
+      "latest_hwid": "N/A",
+      "ip": "182.2.165.92"
     }
   ]
 }
