@@ -710,6 +710,15 @@
       "total_device": 1,
       "latest_hwid": "N/A",
       "ip": "125.166.13.216"
+    },
+    {
+      "discord_id": "1214372446942138399",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Abiel_bachtiar10",
+      "total_device": 1,
+      "latest_hwid": "N/A",
+      "ip": "36.85.61.141"
     }
   ]
 }
