@@ -341,6 +341,15 @@
       "total_device": 1,
       "latest_hwid": "N/A",
       "ip": "103.189.207.249"
+    },
+    {
+      "discord_id": "939889723680370718",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Robitrizky",
+      "total_device": 1,
+      "latest_hwid": "N/A",
+      "ip": "119.235.212.120"
     }
   ]
 }
