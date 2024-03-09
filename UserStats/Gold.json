@@ -557,6 +557,15 @@
       "total_device": 2,
       "latest_hwid": "N/A",
       "ip": "223.255.230.14"
+    },
+    {
+      "discord_id": "1027380794932600922",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Luzzisu",
+      "total_device": 1,
+      "latest_hwid": "N/A",
+      "ip": "103.129.150.105"
     }
   ]
 }
