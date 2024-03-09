@@ -692,6 +692,15 @@
       "total_device": 1,
       "latest_hwid": "N/A",
       "ip": "114.122.84.136"
+    },
+    {
+      "discord_id": "936039560419369010",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "boredLard1",
+      "total_device": 1,
+      "latest_hwid": "N/A",
+      "ip": "103.187.117.179"
     }
   ]
 }
