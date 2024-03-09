@@ -593,6 +593,15 @@
       "total_device": 1,
       "latest_hwid": "N/A",
       "ip": "125.167.56.121"
+    },
+    {
+      "discord_id": "972079014741168139",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Faad_indo",
+      "total_device": 1,
+      "latest_hwid": "N/A",
+      "ip": "110.136.218.137"
     }
   ]
 }
