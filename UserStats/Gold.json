@@ -719,6 +719,15 @@
       "total_device": 1,
       "latest_hwid": "N/A",
       "ip": "36.85.61.141"
+    },
+    {
+      "discord_id": "1160105774698217502",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "PAPABEAR_550",
+      "total_device": 1,
+      "latest_hwid": "N/A",
+      "ip": "103.130.18.53"
     }
   ]
 }
