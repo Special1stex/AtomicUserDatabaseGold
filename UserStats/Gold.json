@@ -926,6 +926,15 @@
       "total_device": 1,
       "latest_hwid": "N/A",
       "ip": "180.241.44.241"
+    },
+    {
+      "discord_id": "865578480674537512",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "sedppp3",
+      "total_device": 1,
+      "latest_hwid": "N/A",
+      "ip": "114.125.126.172"
     }
   ]
 }
