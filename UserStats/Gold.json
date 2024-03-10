@@ -854,6 +854,15 @@
       "total_device": 1,
       "latest_hwid": "N/A",
       "ip": "43.240.224.102"
+    },
+    {
+      "discord_id": "778896363353014303",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Mas_JAHESan",
+      "total_device": 1,
+      "latest_hwid": "N/A",
+      "ip": "110.138.91.28"
     }
   ]
 }
