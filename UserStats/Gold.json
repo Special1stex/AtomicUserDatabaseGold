@@ -962,6 +962,15 @@
       "total_device": 1,
       "latest_hwid": "N/A",
       "ip": "110.138.87.229"
+    },
+    {
+      "discord_id": "981902550175473705",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "DAVZ4YOU",
+      "total_device": 1,
+      "latest_hwid": "N/A",
+      "ip": "125.167.89.40"
     }
   ]
 }
