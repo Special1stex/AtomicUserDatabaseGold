@@ -890,6 +890,15 @@
       "total_device": 1,
       "latest_hwid": "N/A",
       "ip": "103.121.180.227"
+    },
+    {
+      "discord_id": "833324720904339516",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "kucingliar558",
+      "total_device": 1,
+      "latest_hwid": "N/A",
+      "ip": "124.243.152.101"
     }
   ]
 }
