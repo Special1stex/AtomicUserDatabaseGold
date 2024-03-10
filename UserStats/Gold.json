@@ -917,6 +917,15 @@
       "total_device": 1,
       "latest_hwid": "N/A",
       "ip": "182.253.56.77"
+    },
+    {
+      "discord_id": "710728567528620062",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "megorez2",
+      "total_device": 1,
+      "latest_hwid": "N/A",
+      "ip": "180.241.44.241"
     }
   ]
 }
