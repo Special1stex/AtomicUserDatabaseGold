@@ -1223,6 +1223,15 @@
       "total_device": 2,
       "latest_hwid": "N/A",
       "ip": "175.134.237.164"
+    },
+    {
+      "discord_id": "896630332986654720",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Lionzdmz",
+      "total_device": 1,
+      "latest_hwid": "N/A",
+      "ip": "180.253.130.167"
     }
   ]
 }
