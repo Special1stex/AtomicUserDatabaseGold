@@ -1214,6 +1214,15 @@
       "total_device": 1,
       "latest_hwid": "N/A",
       "ip": "140.213.10.139"
+    },
+    {
+      "discord_id": "590879043390275607",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "golden_riyandi521",
+      "total_device": 1,
+      "latest_hwid": "N/A",
+      "ip": "36.13.85.132"
     }
   ]
 }
