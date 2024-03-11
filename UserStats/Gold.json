@@ -2,12 +2,12 @@
   "userstats": [
     {
       "discord_id": "854304832907378700",
-      "total_execution": 12,
+      "total_execution": 13,
       "total_account": 1,
       "latest_execution_account": "Fenrear1717",
-      "total_device": 1,
+      "total_device": 2,
       "latest_hwid": "N/A",
-      "ip": "36.75.64.64"
+      "ip": "36.75.64.234"
     },
     {
       "discord_id": "706811572869267456",
