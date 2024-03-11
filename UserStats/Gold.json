@@ -1241,6 +1241,15 @@
       "total_device": 1,
       "latest_hwid": "N/A",
       "ip": "202.80.218.160"
+    },
+    {
+      "discord_id": "1094553223668437073",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Kucril13_indo",
+      "total_device": 1,
+      "latest_hwid": "N/A",
+      "ip": "110.137.247.57"
     }
   ]
 }
