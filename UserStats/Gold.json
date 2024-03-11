@@ -1106,6 +1106,15 @@
       "total_device": 3,
       "latest_hwid": "N/A",
       "ip": "125.164.20.111"
+    },
+    {
+      "discord_id": "889717697783418930",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "MulajadiNabolon",
+      "total_device": 1,
+      "latest_hwid": "N/A",
+      "ip": "103.208.207.121"
     }
   ]
 }
