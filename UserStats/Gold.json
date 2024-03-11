@@ -1100,12 +1100,12 @@
     },
     {
       "discord_id": "666494961012834325",
-      "total_execution": 2,
+      "total_execution": 3,
       "total_account": 1,
       "latest_execution_account": "eggRul61",
-      "total_device": 2,
+      "total_device": 3,
       "latest_hwid": "N/A",
-      "ip": "125.164.16.236"
+      "ip": "125.164.20.111"
     }
   ]
 }
