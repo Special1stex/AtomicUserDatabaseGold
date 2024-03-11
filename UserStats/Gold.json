@@ -1133,6 +1133,15 @@
       "total_device": 1,
       "latest_hwid": "N/A",
       "ip": "111.94.106.124"
+    },
+    {
+      "discord_id": "761485836105547799",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "R4jaKentwo",
+      "total_device": 1,
+      "latest_hwid": "N/A",
+      "ip": "140.213.162.55"
     }
   ]
 }
