@@ -1250,6 +1250,15 @@
       "total_device": 1,
       "latest_hwid": "N/A",
       "ip": "110.137.247.57"
+    },
+    {
+      "discord_id": "843807168066748467",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "BAKMIALPRO8",
+      "total_device": 1,
+      "latest_hwid": "N/A",
+      "ip": "180.252.240.47"
     }
   ]
 }
