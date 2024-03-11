@@ -1259,6 +1259,15 @@
       "total_device": 1,
       "latest_hwid": "N/A",
       "ip": "180.252.240.47"
+    },
+    {
+      "discord_id": "899428682970562590",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "bixsqx",
+      "total_device": 1,
+      "latest_hwid": "N/A",
+      "ip": "157.100.111.92"
     }
   ]
 }
