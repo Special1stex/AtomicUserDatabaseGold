@@ -1403,6 +1403,15 @@
       "total_device": 1,
       "latest_hwid": "N/A",
       "ip": "103.141.47.72"
+    },
+    {
+      "discord_id": "784437303087071333",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "darrendana4",
+      "total_device": 1,
+      "latest_hwid": "N/A",
+      "ip": "180.243.7.110"
     }
   ]
 }
