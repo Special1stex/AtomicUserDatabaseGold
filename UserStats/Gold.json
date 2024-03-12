@@ -1388,12 +1388,12 @@
     },
     {
       "discord_id": "762675403780390922",
-      "total_execution": 1,
+      "total_execution": 2,
       "total_account": 1,
       "latest_execution_account": "KyyRawrrrr",
-      "total_device": 1,
+      "total_device": 2,
       "latest_hwid": "N/A",
-      "ip": "125.164.21.124"
+      "ip": "125.164.18.8"
     }
   ]
 }
