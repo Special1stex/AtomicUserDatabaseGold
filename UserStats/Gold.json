@@ -1358,6 +1358,15 @@
       "total_device": 1,
       "latest_hwid": "N/A",
       "ip": "110.159.84.156"
+    },
+    {
+      "discord_id": "976365431566766101",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "vaorlakg1",
+      "total_device": 1,
+      "latest_hwid": "N/A",
+      "ip": "180.252.174.158"
     }
   ]
 }
