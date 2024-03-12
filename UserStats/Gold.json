@@ -1322,6 +1322,15 @@
       "total_device": 1,
       "latest_hwid": "N/A",
       "ip": "110.137.192.220"
+    },
+    {
+      "discord_id": "898770660401233921",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "SKTY_GAMING",
+      "total_device": 1,
+      "latest_hwid": "N/A",
+      "ip": "182.253.131.38"
     }
   ]
 }
