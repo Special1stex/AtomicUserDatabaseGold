@@ -1394,6 +1394,15 @@
       "total_device": 3,
       "latest_hwid": "N/A",
       "ip": "125.164.23.56"
+    },
+    {
+      "discord_id": "743863574144745502",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "PaulaKenYT",
+      "total_device": 1,
+      "latest_hwid": "N/A",
+      "ip": "103.141.47.72"
     }
   ]
 }
