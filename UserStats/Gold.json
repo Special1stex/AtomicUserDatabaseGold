@@ -1502,6 +1502,15 @@
       "total_device": 2,
       "latest_hwid": "N/A",
       "ip": "158.140.171.11"
+    },
+    {
+      "discord_id": "495578840559648768",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Nabenns",
+      "total_device": 1,
+      "latest_hwid": "N/A",
+      "ip": "103.77.48.100"
     }
   ]
 }
