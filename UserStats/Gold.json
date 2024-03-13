@@ -1493,6 +1493,15 @@
       "total_device": 1,
       "latest_hwid": "N/A",
       "ip": "139.194.184.160"
+    },
+    {
+      "discord_id": "486491828238155787",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "thejokermanmboys",
+      "total_device": 1,
+      "latest_hwid": "N/A",
+      "ip": "104.28.247.133"
     }
   ]
 }
