@@ -1466,6 +1466,15 @@
       "total_device": 1,
       "latest_hwid": "N/A",
       "ip": "182.253.50.105"
+    },
+    {
+      "discord_id": "715127602750291990",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "ryukananta",
+      "total_device": 1,
+      "latest_hwid": "N/A",
+      "ip": "123.253.233.32"
     }
   ]
 }
