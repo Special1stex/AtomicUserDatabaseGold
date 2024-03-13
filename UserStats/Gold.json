@@ -1412,6 +1412,15 @@
       "total_device": 1,
       "latest_hwid": "N/A",
       "ip": "140.213.137.244"
+    },
+    {
+      "discord_id": "742924024107237396",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Bredroff",
+      "total_device": 1,
+      "latest_hwid": "N/A",
+      "ip": "114.79.7.19"
     }
   ]
 }
