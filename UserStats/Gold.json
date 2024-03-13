@@ -1475,6 +1475,15 @@
       "total_device": 1,
       "latest_hwid": "N/A",
       "ip": "123.253.233.32"
+    },
+    {
+      "discord_id": "852041498379419658",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "SHIRO_5580",
+      "total_device": 1,
+      "latest_hwid": "N/A",
+      "ip": "114.79.4.232"
     }
   ]
 }
