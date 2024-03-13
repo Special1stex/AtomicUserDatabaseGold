@@ -767,12 +767,12 @@
     },
     {
       "discord_id": "1042934454966042705",
-      "total_execution": 31,
+      "total_execution": 32,
       "total_account": 1,
       "latest_execution_account": "dediashar",
-      "total_device": 1,
+      "total_device": 2,
       "latest_hwid": "N/A",
-      "ip": "110.137.39.242"
+      "ip": "114.10.101.68"
     },
     {
       "discord_id": "1205336996369932290",
