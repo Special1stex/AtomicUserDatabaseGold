@@ -1190,7 +1190,7 @@
     },
     {
       "discord_id": "1089007614798598304",
-      "total_execution": 6,
+      "total_execution": 7,
       "total_account": 1,
       "latest_execution_account": "Hecker1239901",
       "total_device": 1,
@@ -1286,15 +1286,6 @@
       "total_device": 1,
       "latest_hwid": "N/A",
       "ip": "36.72.220.245"
-    },
-    {
-      "discord_id": "882155196120170496",
-      "total_execution": 21,
-      "total_account": 3,
-      "latest_execution_account": "AsteroidStars0000",
-      "total_device": 1,
-      "latest_hwid": "N/A",
-      "ip": "101.128.105.23"
     },
     {
       "discord_id": "576764448967229450",
