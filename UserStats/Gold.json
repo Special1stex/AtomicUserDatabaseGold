@@ -1565,6 +1565,15 @@
       "total_device": 1,
       "latest_hwid": "N/A",
       "ip": "101.128.105.23"
+    },
+    {
+      "discord_id": "1003072124535193650",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "FAWAZ102130",
+      "total_device": 1,
+      "latest_hwid": "N/A",
+      "ip": "118.137.99.48"
     }
   ]
 }
