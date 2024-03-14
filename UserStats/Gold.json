@@ -1547,6 +1547,15 @@
       "total_device": 1,
       "latest_hwid": "N/A",
       "ip": "36.83.197.45"
+    },
+    {
+      "discord_id": "1041576564875341834",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "GestaMauApa",
+      "total_device": 1,
+      "latest_hwid": "N/A",
+      "ip": "103.133.24.235"
     }
   ]
 }
