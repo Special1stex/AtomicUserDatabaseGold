@@ -1679,9 +1679,9 @@
       "total_execution": 2,
       "total_account": 1,
       "latest_execution_account": "Eril0405",
-      "total_device": 2,
+      "total_device": 1,
       "latest_hwid": "N/A",
-      "ip": "112.215.122.200"
+      "ip": "112.215.168.55"
     }
   ]
 }
