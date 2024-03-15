@@ -1610,6 +1610,15 @@
       "total_device": 1,
       "latest_hwid": "N/A",
       "ip": "175.158.37.163"
+    },
+    {
+      "discord_id": "833942201141821461",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "laksamana_caesar",
+      "total_device": 1,
+      "latest_hwid": "N/A",
+      "ip": "36.90.248.242"
     }
   ]
 }
