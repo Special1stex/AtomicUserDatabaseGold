@@ -1619,6 +1619,15 @@
       "total_device": 1,
       "latest_hwid": "N/A",
       "ip": "36.90.248.242"
+    },
+    {
+      "discord_id": "571154334151213060",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Ms_sejati322",
+      "total_device": 1,
+      "latest_hwid": "N/A",
+      "ip": "103.108.130.209"
     }
   ]
 }
