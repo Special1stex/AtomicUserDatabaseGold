@@ -1628,6 +1628,15 @@
       "total_device": 1,
       "latest_hwid": "N/A",
       "ip": "103.108.130.209"
+    },
+    {
+      "discord_id": "571524751458304001",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "pradhono321",
+      "total_device": 1,
+      "latest_hwid": "N/A",
+      "ip": "158.140.182.63"
     }
   ]
 }
