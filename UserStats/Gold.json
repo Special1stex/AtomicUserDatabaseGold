@@ -1700,6 +1700,15 @@
       "total_device": 1,
       "latest_hwid": "N/A",
       "ip": "149.110.35.172"
+    },
+    {
+      "discord_id": "588246073408094208",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "v4xro",
+      "total_device": 1,
+      "latest_hwid": "N/A",
+      "ip": "180.241.188.212"
     }
   ]
 }
