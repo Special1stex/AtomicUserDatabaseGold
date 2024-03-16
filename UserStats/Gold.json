@@ -299,12 +299,12 @@
     },
     {
       "discord_id": "463538695086145576",
-      "total_execution": 28,
+      "total_execution": 29,
       "total_account": 1,
       "latest_execution_account": "fn_danesh",
-      "total_device": 1,
+      "total_device": 2,
       "latest_hwid": "N/A",
-      "ip": "110.138.82.235"
+      "ip": "103.136.57.250"
     },
     {
       "discord_id": "1214573482487316542",
