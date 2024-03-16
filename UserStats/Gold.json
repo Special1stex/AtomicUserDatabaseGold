@@ -389,7 +389,7 @@
     },
     {
       "discord_id": "990177940220313650",
-      "total_execution": 11,
+      "total_execution": 12,
       "total_account": 2,
       "latest_execution_account": "toms_bottooms",
       "total_device": 1,
@@ -1487,12 +1487,12 @@
     },
     {
       "discord_id": "486491828238155787",
-      "total_execution": 22,
+      "total_execution": 23,
       "total_account": 1,
       "latest_execution_account": "thejokermanmboys",
-      "total_device": 9,
+      "total_device": 10,
       "latest_hwid": "N/A",
-      "ip": "158.140.171.22"
+      "ip": "158.140.171.10"
     },
     {
       "discord_id": "495578840559648768",
