@@ -1736,6 +1736,15 @@
       "total_device": 1,
       "latest_hwid": "N/A",
       "ip": "125.167.0.108"
+    },
+    {
+      "discord_id": "487887179545051138",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "BLUEANCES",
+      "total_device": 1,
+      "latest_hwid": "N/A",
+      "ip": "36.73.35.184"
     }
   ]
 }
