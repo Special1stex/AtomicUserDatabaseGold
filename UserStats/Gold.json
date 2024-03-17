@@ -1784,12 +1784,12 @@
     },
     {
       "discord_id": "1196734618242646097",
-      "total_execution": 1,
+      "total_execution": 2,
       "total_account": 1,
       "latest_execution_account": "LexusJtr",
-      "total_device": 1,
+      "total_device": 2,
       "latest_hwid": "N/A",
-      "ip": "114.122.196.127"
+      "ip": "114.122.200.37"
     }
   ]
 }
