@@ -1817,6 +1817,15 @@
       "total_device": 1,
       "latest_hwid": "N/A",
       "ip": "158.140.191.88"
+    },
+    {
+      "discord_id": "926670887992844358",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Ghostmenang",
+      "total_device": 1,
+      "latest_hwid": "N/A",
+      "ip": "36.72.212.228"
     }
   ]
 }
