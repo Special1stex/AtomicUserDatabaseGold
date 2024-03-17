@@ -758,12 +758,12 @@
     },
     {
       "discord_id": "403156630327525396",
-      "total_execution": 6,
+      "total_execution": 7,
       "total_account": 1,
       "latest_execution_account": "xb36",
-      "total_device": 1,
+      "total_device": 2,
       "latest_hwid": "N/A",
-      "ip": "125.160.247.235"
+      "ip": "125.160.246.160"
     },
     {
       "discord_id": "1042934454966042705",
