@@ -1808,6 +1808,15 @@
       "total_device": 1,
       "latest_hwid": "N/A",
       "ip": "118.136.75.85"
+    },
+    {
+      "discord_id": "939188267516043274",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "RGZ_21",
+      "total_device": 1,
+      "latest_hwid": "N/A",
+      "ip": "158.140.191.88"
     }
   ]
 }
