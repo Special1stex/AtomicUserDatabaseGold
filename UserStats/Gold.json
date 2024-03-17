@@ -1835,6 +1835,15 @@
       "total_device": 1,
       "latest_hwid": "N/A",
       "ip": "118.136.210.141"
+    },
+    {
+      "discord_id": "520850580512440341",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Cybertron123T",
+      "total_device": 1,
+      "latest_hwid": "N/A",
+      "ip": "180.242.129.234"
     }
   ]
 }
